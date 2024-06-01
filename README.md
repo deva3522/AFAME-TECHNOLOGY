@@ -53,8 +53,8 @@ WorkLifeBalance -> WorkLifeBalanceRating
 ## -> Eliminate redundant entries
 Removed duplicate rows.
 
-## -> Sanitize specific columns (e.g., stripping whitespace)
+## -> Sanitize specific columns
 Stripped whitespace from string columns.
 
-## -> Handle NaN values (e.g., removing rows with NaN values)
+## -> Handle NaN values 
 Removed rows with any NaN values.
